@@ -1,0 +1,35 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [20,3],
+    "Body": [
+     "","en-US","it-IT",
+     "message1","message1 en-US","message1 it-IT",
+     "ChangePasswordFormSuccessMessage","Password changed successfully","Password cambiata con successo",
+     "ChangePasswordFormPasswordAlreadyUsedMessage","Password already used","Password già utilizzata",
+     "ChangePasswordFormPasswordMismatchMessage","Passwords do not match","Le password non coincidono",
+     "ChangeUserFormOutputSuccessMessage","Change User successful","Cambio utente riuscito",
+     "ChangePasswordFormPasswordTooShortMessage","Password too short","Password troppo corta",
+     "ChangePasswordFormUserNotFoundMessage","User not found","Utente non trovato",
+     "ChangePasswordFormPasswordChangedTooRecentlyMessage","Password changed too recently","Password cambiata troppo recentemente",
+     "ChangeUserFormOutputPasswordExpired","Password expired","Password scaduta",
+     "Change User","Change User","Cambia utente",
+     "New password","New password","Nuova password",
+     "ChangePasswordFormUnsupportedOperationMessage","Unsupported operation","Operazione non supportata",
+     "Confirm password","Confirm password","Conferma password",
+     "ChangePasswordFormWrongOldPasswordMessage","Wrong old password","Vecchia password errata",
+     "Your password has expired. Please enter a new one.","Your password has expired. Please enter a new one.","Password scaduta. Inseriscine una nuova.",
+     "ChangeUserFormOutputErrorMessage","Authentication failed","Autenticazione fallita",
+     "Old password","Old password","Vecchia password",
+     "Password","Password","Password",
+     "Change password","Change password","Cambia password"
+    ]
+   }
